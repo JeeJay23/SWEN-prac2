@@ -6,5 +6,7 @@ int main()
 {
    printf("Hello Jader ;)");
    printf("hella lennart!");
+   printf("Super snelle git workshop!");
+   printf("Super snelle git workshop!");
    return 0;
 }
